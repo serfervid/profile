@@ -16,12 +16,12 @@
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/serfervid"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sergio-fernandez-vidal"
       },
       {
-        "type": "other",
-        "URL": "https://www.linkedin.com/in/sergio-fernandez-vidal"
+        "type": "github",
+        "URL": "https://github.com/serfervid"
       }
     ]
   },
@@ -175,6 +175,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/sergio-fernandez-vidal"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
