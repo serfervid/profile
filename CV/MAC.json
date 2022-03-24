@@ -146,6 +146,18 @@
   "knowledge": {
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Machine Learning",
+        "startDate": "2020-03-01",
+        "finishDate": "2020-03-01",
+        "institution": {
+          "name": "Coursera",
+          "description": "",
+          "URL": "https://www.coursera.org/account/accomplishments/certificate/VU7P4X4FFR38"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería Técnica en Informática de Gestión",
