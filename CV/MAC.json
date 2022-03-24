@@ -38,6 +38,23 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Ocado Technology"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2018-02-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
       }
     ]
   }
