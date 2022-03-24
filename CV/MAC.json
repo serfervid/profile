@@ -123,6 +123,23 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Libertas Consultores"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2004-09-01",
+            "finishDate": "2006-06-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
       }
     ]
   }
