@@ -72,6 +72,23 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Dreivip"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2011-08-01",
+            "finishDate": "2017-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
       }
     ]
   }
