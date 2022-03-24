@@ -55,6 +55,23 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Ocado Technology"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2017-01-01",
+            "finishDate": "2018-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
       }
     ]
   }
