@@ -142,5 +142,20 @@
         ]
       }
     ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Técnica en Informática de Gestión",
+        "startDate": "2000-09-01",
+        "finishDate": "2005-07-01",
+        "institution": {
+          "name": "Universistat Politècnica de Catalunya",
+          "description": ""
+        }
+      }
+    ]
   }
 }
