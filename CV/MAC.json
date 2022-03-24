@@ -89,6 +89,23 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Adasa Sistemas"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2006-10-01",
+            "finishDate": "2011-08-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
       }
     ]
   }
