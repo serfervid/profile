@@ -173,5 +173,23 @@
         }
       }
     ]
+  },
+  "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        }
+      ]
+    }
   }
 }
