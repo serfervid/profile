@@ -56,13 +56,19 @@
       },
       {
         "organization": {
-          "name": "Ocado Technology"
+          "name": "Ocado Technology",
+          "URL": "https://www.ocadogroup.com/technology/technology-pioneers/"
         },
         "roles": [
           {
             "name": "Software Engineer",
             "startDate": "2017-01-01",
-            "finishDate": "2018-01-01"
+            "finishDate": "2018-01-01",
+            "challenges": [
+              {
+                "description": "Observability Team: During this period we worked on an managed instance of  an internal monitoring tool that receives events from the majority of microservices of the new Ocado Smart Platform.\nSome of the technologies used in this project includes Java8, Spring Boot, Akka cluster, Kinesis Stream, Elastic beanstalk, SQS, SNS, DynamoDB, TypeScript, React, Redux, CloudWatch, New Relic, GitlabCI"
+              }
+            ]
           }
         ]
       },
