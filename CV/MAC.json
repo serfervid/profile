@@ -8,7 +8,8 @@
     "profile": {
       "name": "Sergio",
       "surnames": "Fernández",
-      "title": "Software Engineer",
+      "title": "Senior Software Engineer",
+      "description": "Software Engineer interested in the whole software development lifecycle, CI/CD, and distributed systems.\n",
       "avatar": {
         "alt": "profile-image",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/13/6f5600db-bab2-4a3a-a9c6-e9e8c9c97fd1_1630586865142.1630586865142"
@@ -116,6 +117,17 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
@@ -125,7 +137,55 @@
       },
       {
         "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DynamoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kibana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Amazon SQS",
           "type": "technology"
         }
       }
