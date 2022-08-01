@@ -161,6 +161,12 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Kubernetes",
           "type": "technology"
         }
@@ -180,6 +186,12 @@
       {
         "skill": {
           "name": "Kibana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Cloud",
           "type": "technology"
         }
       },
