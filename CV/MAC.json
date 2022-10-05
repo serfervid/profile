@@ -35,6 +35,17 @@
     "jobs": [
       {
         "organization": {
+          "name": "Ocado Technology"
+        },
+        "roles": [
+          {
+            "name": "Staff Software Engineer",
+            "startDate": "2022-09-01"
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Adevinta"
         },
         "roles": [
