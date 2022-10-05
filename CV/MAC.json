@@ -39,6 +39,18 @@
         },
         "roles": [
           {
+            "name": "Interim Tech Lead",
+            "startDate": "2022-05-01",
+            "finishDate": "2022-09-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Adevinta"
+        },
+        "roles": [
+          {
             "name": "Senior Software Engineer",
             "startDate": "2022-01-01",
             "finishDate": "2022-05-01"
