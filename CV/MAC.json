@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/13/6f5600db-bab2-4a3a-a9c6-e9e8c9c97fd1_1630586865142.1630586865142"
       },
       "location": {
-        "notes": "Barcelona"
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona"
       }
     },
     "relevantLinks": [
@@ -38,7 +40,8 @@
         "roles": [
           {
             "name": "Senior Software Engineer",
-            "startDate": "2022-01-01"
+            "startDate": "2022-01-01",
+            "finishDate": "2022-05-01"
           }
         ]
       },
@@ -143,7 +146,19 @@
       },
       {
         "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
           "type": "technology"
         }
       },
@@ -161,31 +176,13 @@
       },
       {
         "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "DynamoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Amazon SQS",
           "type": "technology"
         }
       },
@@ -197,13 +194,19 @@
       },
       {
         "skill": {
-          "name": "Spring Cloud",
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Amazon SQS",
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Cloud",
           "type": "technology"
         }
       }
@@ -295,6 +298,10 @@
           "name": "Kotlin",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Tech Lead"
       ]
     }
   }
