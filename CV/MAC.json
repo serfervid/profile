@@ -35,12 +35,124 @@
     "jobs": [
       {
         "organization": {
+          "name": "May 2022 - Sep 2022 "
+        },
+        "roles": [
+          {
+            "name": "Interim Tech Lead",
+            "startDate": "2022-12-23",
+            "challenges": [
+              {
+                "description": "Interim Tech Lead"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Jan 2017 - Jan 2018 "
+        },
+        "roles": [
+          {
+            "name": "Software Engineer II",
+            "startDate": "2022-12-23",
+            "challenges": [
+              {
+                "description": "Software Engineer II"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Feb 2018 - Dec 2021 "
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2022-12-23",
+            "challenges": [
+              {
+                "description": "Senior Software Engineer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Oct 2006 - May 2008 "
+        },
+        "roles": [
+          {
+            "name": "Programador J2EE",
+            "startDate": "2022-12-23",
+            "challenges": [
+              {
+                "description": "Programador J2EE"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "May 2008 - Aug 2011 "
+        },
+        "roles": [
+          {
+            "name": "Analista-Programador J2EE",
+            "startDate": "2022-12-23",
+            "challenges": [
+              {
+                "description": "Analista-Programador J2EE"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Ocado Technology"
         },
         "roles": [
           {
             "name": "Staff Software Engineer",
             "startDate": "2022-09-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ocado Technology "
+        },
+        "roles": [
+          {
+            "name": "Staff Software Engineer",
+            "startDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Servitel 2003 Servicios Informáticos, S.L."
+        },
+        "roles": [
+          {
+            "name": "Programador Visual Basic (Convenio de prácticas)",
+            "startDate": "2004-08-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
           }
         ]
       },
@@ -58,6 +170,23 @@
       },
       {
         "organization": {
+          "name": "9 mos"
+        },
+        "roles": [
+          {
+            "name": "Adevinta",
+            "startDate": "2022-05-01",
+            "finishDate": "2022-09-30",
+            "challenges": [
+              {
+                "description": "Interim Tech Lead"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Adevinta"
         },
         "roles": [
@@ -70,6 +199,23 @@
       },
       {
         "organization": {
+          "name": "Full-time"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2022-01-01",
+            "finishDate": "2022-05-31",
+            "challenges": [
+              {
+                "description": "Senior Software Engineer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Ocado Technology"
         },
         "roles": [
@@ -77,6 +223,23 @@
             "name": "Senior Software Engineer",
             "startDate": "2018-02-01",
             "finishDate": "2021-12-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "5 yrs"
+        },
+        "roles": [
+          {
+            "name": "Ocado Technology",
+            "startDate": "2018-02-01",
+            "finishDate": "2021-12-31",
+            "challenges": [
+              {
+                "description": "Senior Software Engineer"
+              }
+            ]
           }
         ]
       },
@@ -107,6 +270,40 @@
             "name": "Software Engineer",
             "startDate": "2011-08-01",
             "finishDate": "2017-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "dreivip.com"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2011-08-01",
+            "finishDate": "2017-01-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "4 yrs 11 mos"
+        },
+        "roles": [
+          {
+            "name": "ADASA SISTEMAS",
+            "startDate": "2008-05-01",
+            "finishDate": "2011-08-31",
+            "challenges": [
+              {
+                "description": "Analista-Programador J2EE"
+              }
+            ]
           }
         ]
       },
@@ -149,17 +346,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "Catalan"
-      },
-      {
-        "name": "English"
-      },
-      {
-        "name": "Spanish"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -321,10 +507,6 @@
           "name": "Kotlin",
           "type": "technology"
         }
-      ],
-      "preferredRoles": [
-        "Backend Developer",
-        "Tech Lead"
       ]
     }
   }
