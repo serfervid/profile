@@ -63,23 +63,6 @@
       },
       {
         "organization": {
-          "name": "9 mos"
-        },
-        "roles": [
-          {
-            "name": "Adevinta",
-            "startDate": "2022-05-01",
-            "finishDate": "2022-09-30",
-            "challenges": [
-              {
-                "description": "Interim Tech Lead"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Adevinta"
         },
         "roles": [
