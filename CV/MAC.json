@@ -108,23 +108,6 @@
       },
       {
         "organization": {
-          "name": "Full-time"
-        },
-        "roles": [
-          {
-            "name": "Senior Software Engineer",
-            "startDate": "2022-01-01",
-            "finishDate": "2022-05-31",
-            "challenges": [
-              {
-                "description": "Senior Software Engineer"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Ocado Technology"
         },
         "roles": [
