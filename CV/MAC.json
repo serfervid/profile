@@ -120,23 +120,6 @@
       },
       {
         "organization": {
-          "name": "5 yrs"
-        },
-        "roles": [
-          {
-            "name": "Ocado Technology",
-            "startDate": "2018-02-01",
-            "finishDate": "2021-12-31",
-            "challenges": [
-              {
-                "description": "Senior Software Engineer"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Ocado Technology",
           "URL": "https://www.ocadogroup.com/technology/technology-pioneers/"
         },
