@@ -35,22 +35,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "May 2022 - Sep 2022 "
-        },
-        "roles": [
-          {
-            "name": "Interim Tech Lead",
-            "startDate": "2022-12-23",
-            "challenges": [
-              {
-                "description": "Interim Tech Lead"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Ocado Technology"
         },
         "roles": [
