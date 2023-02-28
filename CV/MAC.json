@@ -371,6 +371,10 @@
           "name": "Kotlin",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Tech Lead"
       ]
     },
     "status": "openToOffers"
