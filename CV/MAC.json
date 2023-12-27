@@ -375,6 +375,24 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Cloud",
+        "type": "technology"
+      }
+    ],
     "goodPractices": "TDD, Solid, CI/CD"
   }
 }
